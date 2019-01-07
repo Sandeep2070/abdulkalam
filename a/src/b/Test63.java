@@ -7,7 +7,7 @@ public class Test63 {
 	public static int main(String[] args) 
 	{
 	int i,a;
-	float x=0;
+	float x=10;
 	int mul=1;
 	Scanner sc=new Scanner(System.in);
 	System.out.println("enter the n value");
